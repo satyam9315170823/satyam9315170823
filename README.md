@@ -107,27 +107,15 @@ Lately, I’ve been building with **Web3** and **GenAI / AI agents**, while ship
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=satyam9315170823&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam9315170823&theme=dark&hide_border=true&layout=compact" width="400" />
-      </td>
-    </tr>
-  </table>
+ 
   
   <details>
     <summary><b>🔥 Click to view Streak & Visit Stats</b></summary>
     <br/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=satyam9315170823&theme=dark&hide_border=true" />
     <br/><br/>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=satyam9315170823&icon=0&color=0" />
-    </a>
+  
   </details>
 </div>
