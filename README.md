@@ -22,9 +22,10 @@ Lately, I’ve been building with **Web3** and **GenAI / AI agents**, while ship
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:satyamsingh9315170823@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:satyamsingh9315170823@gmail.com?subject=Hello%20Satyam">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
