@@ -110,18 +110,16 @@ Lately, I’ve been building with **Web3** and **GenAI / AI agents**, while ship
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=satyam9315170823&theme=dark&hide_border=true&include_all_commits=true&" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=satyam9315170823&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam9315170823&theme=dark&hide_border=true&layout=compact" width="400" />
       </td>
     </tr>
   </table>
-</div>
   
   <details>
     <summary><b>🔥 Click to view Streak & Visit Stats</b></summary>
