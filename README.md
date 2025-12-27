@@ -1,14 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Satyam+Kumar;Full-Stack+%26+Backend+Engineer;Scalable,+Production-Grade+Systems;Web3+%26+GenAI+Builder" alt="Typing SVG" />
-</div>
-
-<div align="center"> 
-  <a href="https://x.com/liers_kingdom">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Twitter"/>
-  </a>
-  <a href="mailto:satyam.kumar@acem.edu.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=27E6A6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Satyam+Kumar;Go,+Rust,+%26+TypeScript+Engineer;Microservices+%26+Distributed+Systems;Exploring+AI+Agents+%26+Blockchain" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -119,16 +110,18 @@ Lately, I’ve been building with **Web3** and **GenAI / AI agents**, while ship
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=satyam9315170823&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=satyam9315170823&theme=dark&hide_border=true&include_all_commits=true&" width="400" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam9315170823&theme=dark&hide_border=true&layout=compact" width="400" />
       </td>
     </tr>
   </table>
+</div>
   
   <details>
     <summary><b>🔥 Click to view Streak & Visit Stats</b></summary>
