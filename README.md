@@ -14,19 +14,21 @@ Lately, I’ve been building with **Web3** and **GenAI / AI agents**, while ship
 
 ---
 <div align="center">
-  <a href="https://x.com/liers_kingdom" target="_blank">
+  <a href="https://x.com/liers_kingdom">
     <img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/satyam-kumar-3a28b2236/" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-kumar-3a28b2236/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-<a href="mailto:satyamsingh9315170823@gmail.com?subject=Hello%20Satyam">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-
 </div>
+
+<br/>
+
+<div align="center">
+  📧 <a href="mailto:satyamsingh9315170823@gmail.com">satyamsingh9315170823@gmail.com</a>
+</div>
+
 
 <br/>
 
