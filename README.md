@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Satyam+Kumar;Full-Stack+%26+Backend+Engineer;Building+Scalable+Systems;Web3+%26+GenAI+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>
-    Backend Architecture • Microservices • Cloud-Native DevOps • Web3
-  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Satyam+Kumar;Full-Stack+%26+Backend+Engineer;Scalable,+Production-Grade+Systems;Web3+%26+GenAI+Builder" alt="Typing SVG" />
 </div>
 
 <div align="center"> 
@@ -15,108 +9,134 @@
   <a href="mailto:satyam.kumar@acem.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </div>
 
 <br/>
 
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">💫 About Me</h2>
 
-> I’m a **Full-Stack & Backend Engineer** focused on building **scalable, production-grade systems**. 
+> Hi, I’m **Satyam Kumar** 👋  
+> I’m a **full-stack & backend engineer** focused on building **scalable, production-grade systems**.
 
-I specialize in **distributed backend architectures** and **cloud-native DevOps**. I don't just write code; I design systems that handle scale, focusing on performance, reliability, and clean architecture. Lately, I've been bridging the gap between **Web3**, **GenAI Agents**, and traditional **Microservices**.
+I work across **modern web**, **distributed backend architectures**, and **cloud-native DevOps** — with hands-on experience in **microservices**, **event-driven systems**, and **real-time applications**.  
+Lately, I’ve been building with **Web3** and **GenAI / AI agents**, while shipping systems that care deeply about **performance, reliability, and clean architecture**.
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120"><b>Core</b></td>
+      <td valign="middle" width="180">
+        <b>🚀 Core Engineering</b>
+      </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,cpp" />
+        <img src="https://skillicons.dev/icons?i=js,ts,go,rust,python,cpp" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>Backend & DB</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,supabase,prisma,kafka,rabbitmq" />
+      <td valign="middle">
+        <b>🎨 Frontend</b>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>DevOps & Cloud</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,githubactions,jenkins" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Web3 & AI</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=solidity,ethereum,bots" /> <br/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/GenAI-412991?style=flat&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Frontend</b></td>
       <td>
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <b>⚙️ Backend</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,go" />
+        <img src="https://img.shields.io/badge/WebSockets-black?style=flat&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <b>🗄️ Databases & ORMs</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <b>🧩 Architecture</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+        <br/>
+        <img src="https://img.shields.io/badge/Microservices-181717?style=flat&logo=microservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/Event_Driven-blue?style=flat" />
+        <img src="https://img.shields.io/badge/Monorepos-black?style=flat" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <b>☁️ DevOps & Cloud</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,githubactions,gitlab,jenkins,argo" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <b>🔗 Web3</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=ethereum,solidity" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Smart_Contracts-black?style=flat" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <b>🤖 GenAI</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-black?style=flat" />
+        <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=openai&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <b>🧰 Tooling</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=bun,git,github,gitlab" />
+      </td>
+    </tr>
   </table>
 </div>
 
 ---
 
-<h2 align="center">🚀 Deep Dive</h2>
-
-<details>
-  <summary><b>☁️ DevOps & Infrastructure Philosophy</b> (Click to Expand)</summary>
-  <br />
-  I believe in <b>GitOps</b> and <b>Infrastructure as Code</b>.
-  <ul>
-    <li><b>Containerization:</b> Docker & Kubernetes for orchestration.</li>
-    <li><b>IaC:</b> Terraform & Ansible for reproducible environments.</li>
-    <li><b>CI/CD:</b> Automated pipelines using GitHub Actions, GitLab CI, and Argo CD.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🧩 Architecture & System Design</b> (Click to Expand)</summary>
-  <br />
-  <ul>
-    <li><b>Patterns:</b> Event-Driven Architecture, Microservices, Monorepos.</li>
-    <li><b>Communication:</b> WebSockets for real-time, gRPC/WebRTC for performance.</li>
-    <li><b>Scalability:</b> Caching strategies, Load Balancing, and Database Sharding.</li>
-  </ul>
-</details>
-
-<br/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=satyam9315170823&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=satyam9315170823&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam9315170823&theme=tokyonight&hide_border=true&layout=compact" width="400" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam9315170823&theme=dark&hide_border=true&layout=compact" width="400" />
       </td>
     </tr>
   </table>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=satyam9315170823&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=satyam9315170823&icon=5&color=6" />
-  <br/>
-  <i>Let's build the future, one commit at a time.</i>
+  
+  <details>
+    <summary><b>🔥 Click to view Streak & Visit Stats</b></summary>
+    <br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=satyam9315170823&theme=dark&hide_border=true" />
+    <br/><br/>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=satyam9315170823&icon=0&color=0" />
+    </a>
+  </details>
 </div>
