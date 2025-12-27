@@ -1,29 +1,30 @@
-<!-- HERO / TYPING -->
-<div align="center" style="margin-top: 12px; margin-bottom: 24px;">
+<!-- HERO -->
+<div align="center" style="margin-bottom: 16px;">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=27E6A6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Satyam+Kumar;Go,+Rust,+%26+TypeScript+Engineer;Microservices+%26+Distributed+Systems;Exploring+AI+Agents+%26+Blockchain" 
     alt="Typing SVG" 
   />
 </div>
 
----
+<table width="100%">
+<tr>
+
+<!-- LEFT SECTION -->
+<td width="48%" valign="top">
 
 <h2 align="center">💫 About Me</h2>
 
-<div align="center" style="max-width: 760px; margin: auto;">
-  
 > Hi, I’m **Satyam Kumar** 👋  
-> I’m a **full-stack & backend engineer** focused on building **scalable, production-grade systems**.
+> A **full-stack & backend engineer** focused on building **scalable, production-grade systems**.
 >
-> I work across **modern web**, **distributed backend architectures**, and **cloud-native DevOps** — with hands-on experience in **microservices**, **event-driven systems**, and **real-time applications**.  
-> Lately, I’ve been building with **Web3** and **GenAI / AI agents**, while shipping systems that care deeply about **performance, reliability, and clean architecture**.
+> I design and ship **modern web platforms** and **distributed backend architectures**, with hands-on experience in **microservices**, **event-driven systems**, and **real-time applications**.  
+> My work spans **cloud-native DevOps**, where reliability, performance, and clean architecture are first-class concerns.
+>
+> Recently, I’ve been building systems at the intersection of **Web3** and **GenAI / AI agents**, applying strong engineering fundamentals to emerging technologies.
 
-</div>
+<br/>
 
----
-
-<!-- SOCIALS -->
-<div align="center" style="margin-top: 18px;">
+<div align="center">
   <a href="https://x.com/liers_kingdom">
     <img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" />
   </a>
@@ -33,86 +34,79 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 8px;">
   📧 <a href="mailto:satyamsingh9315170823@gmail.com"><b>satyamsingh9315170823@gmail.com</b></a>
 </div>
 
----
+</td>
+
+<!-- RIGHT SECTION -->
+<td width="52%" valign="top">
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<div align="center" style="margin-top: 12px;">
-  <table>
-    <tr>
-      <td width="190"><b>🚀 Core Engineering</b></td>
-      <td><img src="https://skillicons.dev/icons?i=js,ts,go,rust,python,cpp" /></td>
-    </tr>
-    <tr>
-      <td><b>🎨 Frontend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></td>
-    </tr>
-    <tr>
-      <td><b>⚙️ Backend</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,go" />
-        <img src="https://img.shields.io/badge/WebSockets-black?style=flat&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🗄️ Databases & ORMs</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma" />
-        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🧩 Architecture</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" /><br/>
-        <img src="https://img.shields.io/badge/Microservices-181717?style=flat" />
-        <img src="https://img.shields.io/badge/Event_Driven-blue?style=flat" />
-        <img src="https://img.shields.io/badge/Monorepos-black?style=flat" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>☁️ DevOps & Cloud</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,githubactions,gitlab,jenkins,argo" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔗 Web3</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=ethereum,solidity" />
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Smart_Contracts-black?style=flat" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🤖 GenAI</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-black?style=flat" />
-        <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=openai&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🧰 Tooling</b></td>
-      <td><img src="https://skillicons.dev/icons?i=bun,git,github,gitlab" /></td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="160"><b>🚀 Core</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,go,rust,python,cpp" /></td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,go,ts" />
+      <img src="https://img.shields.io/badge/WebSockets-black?style=flat" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ DB & ORM</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma" />
+      <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧩 Arch</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+      <img src="https://img.shields.io/badge/Microservices-black?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,githubactions,gitlab,jenkins,argo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔗 Web3</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ethereum,solidity" />
+      <img src="https://img.shields.io/badge/Solana-9945FF?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 GenAI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" />
+      <img src="https://img.shields.io/badge/LangGraph-black?style=flat" />
+      <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat" />
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-<!-- INTERACTIVE STATS -->
-<div align="center" style="margin-top: 18px;">
-  <details>
-    <summary><b>🔥 Click to view Streak & Visit Stats</b></summary>
-    <br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=satyam9315170823&theme=dark&hide_border=true" />
-    <br/><br/>
-  </details>
-</div>
+<details>
+  <summary><b>🔥 Stats</b></summary>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=satyam9315170823&theme=dark&hide_border=true" />
+</details>
+
+</td>
+</tr>
+</table>
