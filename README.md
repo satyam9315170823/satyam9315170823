@@ -19,10 +19,12 @@
 > Hi, I’m **Satyam Kumar** 👋  
 > A **full-stack & backend engineer** focused on building **scalable, production-grade systems**.
 >
-> I design and ship **modern web platforms** and **distributed backend architectures**, with hands-on experience in **microservices**, **event-driven systems**, and **real-time applications**.  
-> I care deeply about **clean architecture**, **performance**, and **reliability**.
+> I design and ship **modern web platforms** and **distributed backend architectures**, with hands-on experience in  
+> **`Microservices`**, **`Event-Driven Systems`**, and **`Real-Time Applications`**.  
+> I care deeply about **`Clean Architecture`**, **`Performance`**, and **`Reliability`**.
 >
-> Lately, I’ve been building at the intersection of **Web3** and **GenAI / AI agents**, applying strong engineering fundamentals to emerging technologies.
+> Recently, I’ve been building systems at the intersection of  
+> **`Web3`** and **`GenAI / AI Agents`**, applying strong engineering fundamentals to emerging technologies.
 
 <br/>
 
